@@ -1,5 +1,5 @@
 # Artificial Intelligence in Predictive Health and Laboratory Research
-The Repository contains the slides and the python scripts for the workshop titled Artificial Intelligence in Predictive Health and Laboratory Research: A Hands-On Research Experience for Students and Professionals. This workshop is co-organized by Notre Dame Maryland University and Johns Hopkins University.
+This repository supports the AI in Predictive Health and Laboratory Research workshop jointly organized by Notre Dame of Maryland University School of Pharmacy and Johns Hopkins University. Participants engage in real-world AI use cases in healthcare and laboratory settings, from cleaning structured health data to analyzing stem cell images using ImageJ and training machine learning models to predict drug responses.
 
 ## Workshop Organizers:
 
